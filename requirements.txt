@@ -2,6 +2,6 @@ streamlit
 google-generativeai
 requests
 PyPDF2
-docx
+python-docx
 fpdf
 streamlit-lottie
