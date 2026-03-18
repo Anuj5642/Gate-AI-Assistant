@@ -87,7 +87,8 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-> Add screenshots of your UI here (highly recommended for better presentation)
+<img width="932" height="844" alt="Bot Screenshot" src="https://github.com/user-attachments/assets/29983644-18ef-4262-b947-ed24fc02a0f6" />
+
 
 - Home Page  
 - File Upload Interface  
