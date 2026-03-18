@@ -48,7 +48,7 @@ It integrates **Retrieval-Augmented Generation (RAG)** to deliver **accurate and
 
 ## ⚙️ System Architecture
 
-
+<img width="601" height="1024" alt="System architecture" src="https://github.com/user-attachments/assets/e051a667-3861-43dc-87ce-3de9ff50dcd4" />
 
 ---
 
@@ -56,11 +56,13 @@ It integrates **Retrieval-Augmented Generation (RAG)** to deliver **accurate and
 
 ### 🔷 System Flow
 
+<img width="931" height="422" alt="System flow" src="https://github.com/user-attachments/assets/338c1d52-ce32-4f18-bdeb-eee8436c0035" />
 
 
 
 ### 🔷 RAG Workflow
 
+<img width="909" height="552" alt="RAG Workflow" src="https://github.com/user-attachments/assets/802cccd0-a019-476d-9649-7fcf1a94121c" />
 
 
 
@@ -69,7 +71,6 @@ It integrates **Retrieval-Augmented Generation (RAG)** to deliver **accurate and
 ## 💻 Installation & Setup
 
 ### 1️⃣ Clone the Repository
-```bash
 git clone https://github.com/Anuj5642/Gate-AI-Assistant.git
 cd Gate-AI-Assistant
 
