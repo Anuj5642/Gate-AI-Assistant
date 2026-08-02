@@ -8,7 +8,12 @@ import PyPDF2
 from fpdf import FPDF
 
 # --- API Key Setup ---
-GOOGLE_API_KEY = "AIzaSyB-s8_7wiDdMDWcHxTqUctuVEYA49eIY5I"
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+
+if not GOOGLE_API_KEY:
+    st.error("GOOGLE_API_KEY is not set.")
+    st.stop()
+
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel("gemini-1.5-flash")
 
